@@ -38,7 +38,7 @@
     "grunt-contrib-copy": "^0.5.0",
     "grunt-contrib-jshint": "^1.0.0",
     "grunt-contrib-uglify": "^0.4.0",
-    "grunt-eslint": "^19.0.0",
+    "grunt-eslint": "^20.0.0",
     "grunt-git": "^0.3.3",
     "grunt-jsdoc": "~0.6.2-beta",
     "grunt-notify": "^0.3.0",
@@ -46,7 +46,7 @@
     "jsdoc": "^3.4.0",
     "load-grunt-config": "~0.7.2",
     "typescript": "1.4.1",
-    "yuidocjs": "^0.3.50"
+    "yuidocjs": "^0.6.0"
   },
   "typings": "./typescript/typings.json",
   "typescript": {
